@@ -1,0 +1,45 @@
+/*css for search button */
+#search-ico{
+  color: blue;
+  background-color: 26C6DA;
+}
+.updatehide{
+  visibility: hidden;
+}
+
+/*css for card title font-family and font weight*/ 
+.card-title{
+font-family: Shrikhand;
+font-weight: bold;
+}
+/*css for card text*/
+.card-text{
+font-family: Playfair Display;
+}
+h1{
+text-align: center;
+font-family: Shrikhand;
+}
+/*css for card shadow*/
+
+ /*media query for max width 776px and added image margin and card title
+/*@media(min-width: 300px) and (max-width: 766px){
+.images{
+margin: 0 auto;
+}
+.card-title{
+text-align: center;
+}
+}*/
+/*media query for max width 1200px and added image height and card height*/
+/*@media(min-width: 767px) and (max-width: 1200px){
+.card{
+max-height: 98%;
+}
+}*/
+/*media query for max width 2400px and added image height and card height*/
+/*@media(min-width: 992px) and (max-width: 2400px){
+.card{
+max-height:95%;
+}
+}*/

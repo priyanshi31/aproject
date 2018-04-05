@@ -1,0 +1,14 @@
+/*css for nav item */
+.nav-link{
+	color: white;
+	font-size: 20px;
+	font-family: Fira Sans;
+}
+/*css for logo of the brand*/
+.navbar-brand{
+	color:skyblue;
+	font-size: 25px;
+	font-family: Lobster;
+	font-weight: bold;
+
+}
